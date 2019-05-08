@@ -1,2 +1,2 @@
 print " Welcome to GIT"
-print " Updated the file"
+print "Updated from the lcaol repository"
